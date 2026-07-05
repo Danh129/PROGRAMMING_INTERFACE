@@ -1,0 +1,13 @@
+C:\baitapgiaodien\baitapgiaodien\bin\Debug\baitapgiaodien.exe.config
+C:\baitapgiaodien\baitapgiaodien\bin\Debug\baitapgiaodien.exe
+C:\baitapgiaodien\baitapgiaodien\bin\Debug\baitapgiaodien.pdb
+C:\baitapgiaodien\baitapgiaodien\obj\Debug\baitapgiaodien.csproj.AssemblyReference.cache
+C:\baitapgiaodien\baitapgiaodien\obj\Debug\baitapgiaodien.Form1.resources
+C:\baitapgiaodien\baitapgiaodien\obj\Debug\baitapgiaodien.Properties.Resources.resources
+C:\baitapgiaodien\baitapgiaodien\obj\Debug\baitapgiaodien.csproj.GenerateResource.cache
+C:\baitapgiaodien\baitapgiaodien\obj\Debug\baitapgiaodien.csproj.CoreCompileInputs.cache
+C:\baitapgiaodien\baitapgiaodien\obj\Debug\baitapgiaodien.exe
+C:\baitapgiaodien\baitapgiaodien\obj\Debug\baitapgiaodien.pdb
+C:\baitapgiaodien\baitapgiaodien\obj\Debug\baitapgiaodien.Form2.resources
+C:\baitapgiaodien\baitapgiaodien\obj\Debug\baitapgiaodien.Bai5C4LamThem.resources
+C:\baitapgiaodien\baitapgiaodien\obj\Debug\baitapgiaodien.ChildBai5Themcs.resources

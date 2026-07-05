@@ -1,0 +1,15 @@
+C:\Cacpheptinh\Cacpheptinh\bin\Debug\Cacpheptinh.exe.config
+C:\Cacpheptinh\Cacpheptinh\bin\Debug\Cacpheptinh.exe
+C:\Cacpheptinh\Cacpheptinh\bin\Debug\Cacpheptinh.pdb
+C:\Cacpheptinh\Cacpheptinh\obj\Debug\Cacpheptinh.csproj.AssemblyReference.cache
+C:\Cacpheptinh\Cacpheptinh\obj\Debug\Cacpheptinh.Form1.resources
+C:\Cacpheptinh\Cacpheptinh\obj\Debug\Cacpheptinh.Properties.Resources.resources
+C:\Cacpheptinh\Cacpheptinh\obj\Debug\Cacpheptinh.csproj.GenerateResource.cache
+C:\Cacpheptinh\Cacpheptinh\obj\Debug\Cacpheptinh.csproj.CoreCompileInputs.cache
+C:\Cacpheptinh\Cacpheptinh\obj\Debug\Cacpheptinh.exe
+C:\Cacpheptinh\Cacpheptinh\obj\Debug\Cacpheptinh.pdb
+C:\Cacpheptinh\Cacpheptinh\obj\Debug\Cacpheptinh.Form2.resources
+C:\Cacpheptinh\Cacpheptinh\obj\Debug\Cacpheptinh.Form3.resources
+C:\Cacpheptinh\Cacpheptinh\obj\Debug\Cacpheptinh.Form4.resources
+C:\Cacpheptinh\Cacpheptinh\obj\Debug\Cacpheptinh.Form5.resources
+C:\Cacpheptinh\Cacpheptinh\obj\Debug\Cacpheptinh.Form6.resources
