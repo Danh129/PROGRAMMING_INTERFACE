@@ -1,0 +1,15 @@
+C:\ONGIAODIEN\OnGK\OnGK\bin\Debug\OnGK.exe.config
+C:\ONGIAODIEN\OnGK\OnGK\bin\Debug\OnGK.exe
+C:\ONGIAODIEN\OnGK\OnGK\bin\Debug\OnGK.pdb
+C:\ONGIAODIEN\OnGK\OnGK\obj\Debug\OnGK.csproj.AssemblyReference.cache
+C:\ONGIAODIEN\OnGK\OnGK\obj\Debug\OnGK.Form1.resources
+C:\ONGIAODIEN\OnGK\OnGK\obj\Debug\OnGK.Properties.Resources.resources
+C:\ONGIAODIEN\OnGK\OnGK\obj\Debug\OnGK.csproj.GenerateResource.cache
+C:\ONGIAODIEN\OnGK\OnGK\obj\Debug\OnGK.csproj.CoreCompileInputs.cache
+C:\ONGIAODIEN\OnGK\OnGK\obj\Debug\OnGK.exe
+C:\ONGIAODIEN\OnGK\OnGK\obj\Debug\OnGK.pdb
+C:\ONGIAODIEN\OnGK\OnGK\obj\Debug\OnGK.FrmMain.resources
+C:\ONGIAODIEN\OnGK\OnGK\obj\Debug\OnGK.VeHinh.resources
+C:\ONGIAODIEN\OnGK\OnGK\obj\Debug\OnGK.FrmLoad.resources
+C:\ONGIAODIEN\OnGK\OnGK\obj\Debug\OnGK.FrmRoiTuDo.resources
+C:\ONGIAODIEN\OnGK\OnGK\obj\Debug\OnGK.FrmThiThu.resources
